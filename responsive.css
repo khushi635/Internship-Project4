@@ -1,0 +1,221 @@
+
+
+@media screen and (max-width:740px) {
+  .navbar{
+    height: 80px;
+  }
+  .navbar img {
+    width:80px;
+    margin-top: 10px;
+  }
+    
+  .hero-sec {
+    width: 100vw;
+    height: 30vh;
+    font-size: 1.5rem;
+    /* margin-left: 1rem; */
+    margin-top: 50px;
+    display: flex;
+    /* flex-direction: column; */
+    position: absolute;
+    top: 30px;
+    /* background-color: aliceblue; */
+    background: none;
+  }
+  .hero-intro {
+    width: 100%;
+    margin-left: 2rem;
+  } 
+  .hero-intro h2 {
+   position: absolute;
+   top: 2.5rem;
+    font-size:1.75rem;
+    line-height: 2.5rem;
+  } 
+  .hero-intro p {
+    font-size: 1.5rem;
+    position: absolute;
+    top: 8rem;
+    margin-top: 5rem;
+  }
+  .hero-img img {
+    width: 500px;
+    height: 250px;
+    margin-left: 23rem;
+    /* margin-right: 3rem; */
+    margin-top: 8rem;
+     margin-bottom: 10px; 
+   
+    
+  } 
+  .contact {
+    width: 100%;
+    height: 200px;
+    /* position: absolute;
+    top:0 ; */
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 4rem;
+    margin-left: 2rem;
+    border-bottom: none;
+  }
+
+  .opportunity {
+    /* display: none; */
+    margin-top: 18rem;
+    border-top: none;
+  }
+
+  .oppor-img img {
+    width: 400px;
+    height: 500px;
+    margin-top: 5rem;
+    margin-right: 9rem;
+    position: absolute;
+    top: 93rem;
+    left: 2rem;
+    z-index: -2;
+    /* display: none; */
+  }
+  .oppor-desc {
+    width: 250px;
+    
+    margin-left: 25rem;
+    font-size: 2rem;
+  }
+  .form-sec {
+    width: 1800px;
+    height: 830px;
+    position: relative;
+    bottom:  240px;
+    left: 45px;
+    margin-bottom: 10rem;
+    margin-left: 250px;
+    z-index: -2;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  form {
+    width: 450px;
+    margin-left: 2rem;
+  }
+  .form-sec p {
+    font-size: 1.75rem;
+  }
+  label {
+    font-size: 1.75rem;
+  }
+  .form-sec .inp {
+    width: 400px;
+    height: 35px;
+
+  }
+  .form-desc {
+    position: relative;
+    bottom: 400px;;
+    /* right: 1rem; */
+    left:4rem;
+    margin-left: 2rem;
+    width: 20%;
+    margin-top: 6rem;
+    z-index: -2;
+    /* display: none; */
+  }
+  .batch-desc {
+    margin-top: 0.25rem;
+    margin-left: 8rem;
+    
+  }
+  .batch desc img {
+    width: 30px;
+  }
+  #batch-desc-img2 {
+    margin-left: 10.5rem;
+  }
+  .batch-desc-para {
+    margin-top: 4rem;
+  }
+  .note {
+    margin-left: 2rem;
+    width: 400px;
+    font-size: 1.5rem;
+  }
+  .desc {
+    width: 500px;
+  }
+
+  .agenda {
+    height: 500px;
+    width: 900px;
+    margin-top: 16rem;
+    /* margin-right: 2rem; */
+    position: absolute;
+    top:130rem;
+    z-index: -2;
+  
+    
+    
+    
+  }
+  .agenda p {
+    margin-right: 2rem;
+    
+    font-size: 30px;
+
+  
+  }
+  .experience {
+    margin-top: 50rem;
+    width: 1000px;
+    height: 1200px;
+  }
+  .experience h2 {
+    width: 100%;
+  }
+  .exp-sec {
+    display: flex;
+    flex-direction: column;
+  }
+  .exp-img {
+    margin-left: 7rem;
+  }
+
+  .tools-head {
+    width: 300px;
+    margin-left: 20rem;
+    padding: 1rem;
+    /* background-color: aliceblue; */
+    
+  }
+  .tools-head .sky  {
+    border-bottom: none;
+  }
+  .tools {
+    margin-left: 20rem;
+  }
+  .ques {
+    width: 600px;
+    margin-top: 1rem;
+    margin-left: 11rem;
+  }
+  footer {
+    margin-top: 10rem;
+    width: 1200px;
+  }
+  .ques-para2 {
+    font-size: 2.5rem;
+  }
+  .tool-name {
+    font-size: 2.25rem;
+  }
+
+  footer img {
+    margin-right: 12rem;
+  }
+  .footer-para {
+    margin-right: 12rem;
+  }
+ 
+    
+}
