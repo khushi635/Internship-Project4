@@ -82,12 +82,12 @@
   .oppor-desc {
     width: 250px;
     
-    margin-left: 32rem;
+    margin-left: 33rem;
     font-size: 2rem;
   }
   .form-sec {
     width: 1800px;
-    height: 830px;
+    height: 840px;
     position: relative;
     bottom:  240px;
     left: 75px;
@@ -151,7 +151,7 @@
     height: 500px;
     width: 900px;
     margin-top: 16rem;
-    margin-left: 7rem;
+    margin-left: 8rem;
     /* margin-right: 2rem; */
     position: absolute;
     top:130rem;
@@ -183,7 +183,11 @@
     flex-direction: column;
   }
   .exp-img {
+    
     margin-left: 7rem;
+  }
+  .exp-img img {
+    width: 650px;
   }
 
   .tools-head {
